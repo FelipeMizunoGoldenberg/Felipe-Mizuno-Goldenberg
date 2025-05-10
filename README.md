@@ -26,4 +26,4 @@
 
 ---
 
-✨ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos.
+✨ Obrigado por visitar meu perfil! 
