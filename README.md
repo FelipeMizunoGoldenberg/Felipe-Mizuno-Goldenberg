@@ -8,7 +8,7 @@
 
 ## 🚀 Tecnologias e Ferramentas que estou aprendendo
 
-- Python | HTML | CSS | JavaScript | Java | Banco de Dados
+- Python | Organização e Arquitetura de computadores | Banco de Dados
 
 ---
 
